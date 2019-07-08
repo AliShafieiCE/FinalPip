@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+PipDemo/__init__.py
+PipDemo/demo.py
+pipMustWork1160.egg-info/PKG-INFO
+pipMustWork1160.egg-info/SOURCES.txt
+pipMustWork1160.egg-info/dependency_links.txt
+pipMustWork1160.egg-info/top_level.txt
